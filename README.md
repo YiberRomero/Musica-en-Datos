@@ -13,3 +13,17 @@ Cada registro corresponde a una canción e incluye metadatos descriptivos como n
 Además, el dataset incorpora información relacionada con las listas de reproducción en las que aparecen las canciones y su nivel de popularidad dentro de Spotify, medido en una escala de 0 a 100.
 
 En conjunto, esta base de datos constituye un recurso valioso para desarrollar análisis exploratorios, modelos predictivos y estudios sobre la relación entre las características musicales y la aceptación del público.
+
+## 🎯 Objetivos del proyecto
+
+### Objetivo general
+
+Analizar las características musicales y los niveles de popularidad de canciones obtenidas mediante la API de Spotify, con el fin de identificar patrones, relaciones y diferencias significativas entre géneros y subgéneros musicales, así como los factores que influyen en la recepción del público dentro de la plataforma.
+
+### Objetivos específicos
+
+- Analizar la evolución temporal de la duración de las canciones para determinar si existe una tendencia hacia composiciones más cortas a lo largo de los años.
+- Evaluar la relación entre la duración de una canción y su nivel de popularidad, identificando si las canciones más cortas tienden a obtener una mayor aceptación por parte de los usuarios.
+- Explorar las diferencias en las características de audio entre géneros y subgéneros musicales.
+- Identificar cuáles atributos musicales (energía, bailabilidad, valencia, acústica, tempo, entre otros) presentan una mayor asociación con la popularidad de las canciones.
+- Generar visualizaciones y métricas que faciliten la comprensión de las tendencias musicales presentes en la plataforma Spotify.
